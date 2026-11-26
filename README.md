@@ -11,7 +11,9 @@ A marketplace that helps buyers in Nairobi find natural products (soaps, body ca
 
 ## Prototype screens
 
-1. `index.html` — Home: search first, categories, makers near you
+Brand & first impression: `index.html` (welcome: shopping or making), `for-buyers.html`, `for-makers.html`, `logo.html`.
+
+1. `app.html` — Home: search first, categories, makers near you
 2. `results.html` — Results list, nearest first (default), with List | Map toggle
 3. `map.html` — Map view of the same results
 4. `maker.html` — Maker page with WhatsApp / Instagram / Facebook and Circle partners
@@ -32,7 +34,7 @@ All makers, prices and ratings in the prototype are **sample data**.
 
 ## Viewing the prototype
 
-- **Locally:** open `prototype/index.html` in a browser (best at phone width).
+- **Locally:** open `prototype/index.html` (welcome) or `prototype/screens.html` (all screens) in a browser (best at phone width).
 - **Online:** published with GitHub Pages via `.github/workflows/pages.yml` once Pages is enabled (Settings → Pages → Source: GitHub Actions).
 
 ## Planned stack (not built yet)
