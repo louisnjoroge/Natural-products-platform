@@ -18,6 +18,15 @@ A marketplace that helps buyers in Nairobi find natural products (soaps, body ca
 5. `product.html` — Sold out → a Circle partner covers the order
 6. `checkout.html` — Delivery choice and M-Pesa payment
 
+Maker app (Pro tier):
+
+7. `maker-home.html` — Today: open/closed, new orders, alerts, weekly summary
+8. `maker-stock.html` — Quick stock update (Available / Low / Out)
+9. `maker-invoice.html` — KRA eTIMS invoice with M-Pesa request
+10. `maker-circle.html` — Circle partners, invites and cover settings
+
+`screens.html` lists every screen in one place.
+
 All makers, prices and ratings in the prototype are **sample data**.
 
 ## Viewing the prototype
