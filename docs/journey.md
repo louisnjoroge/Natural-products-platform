@@ -21,6 +21,7 @@ _Updated 26 Nov 2026, 20:35_
 
 | Date | Idea / input | Outcome |
 |---|---|---|
+| 26 Nov | Welcome: shopping examples (goat milk soap, sulphate-free shampoo, essential oils); login moved inside each path | **Done** |
 | 26 Nov | Logo + mobile landing pages for buyers and artisans | **Done** — awaiting logo pick |
 | 26 Nov | Track my thinking and remind me where we left off | This file |
 | 26 Nov | Hub that holds stock "in trust" for Get it for me | **Rejected** — conflicts with aggregator principle (consignment, overheads) |
