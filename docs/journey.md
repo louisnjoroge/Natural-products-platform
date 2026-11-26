@@ -21,6 +21,7 @@ _Updated 26 Nov 2026, 21:05_
 
 | Date | Idea / input | Outcome |
 |---|---|---|
+| 26 Nov | Logo inside the turmeric/gold sun on welcome | **Done** — dark forest logo on gold for contrast; top logo removed |
 | 26 Nov | Logo: go with the drop "for now"; make welcome immersive | **Done** — illustrated still life (honey jar, goat milk soap, oil bottle, turmeric, leaves) with gentle motion; real photos later |
 | 26 Nov | Welcome: shopping examples (goat milk soap, sulphate-free shampoo, essential oils); login moved inside each path | **Done** |
 | 26 Nov | Logo + mobile landing pages for buyers and artisans | **Done** |
