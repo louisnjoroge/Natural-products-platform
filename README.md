@@ -16,7 +16,8 @@ A marketplace that helps buyers in Nairobi find natural products (soaps, body ca
 3. `map.html` — Map view of the same results
 4. `maker.html` — Maker page with WhatsApp / Instagram / Facebook and Circle partners
 5. `product.html` — Sold out → a Circle partner covers the order
-6. `checkout.html` — Delivery choice and M-Pesa payment
+6. `checkout.html` — Delivery choice; buyer pays the maker directly and confirms with the M-Pesa code
+6b. `basket.html` — "Get it for me": multi-maker basket collected and delivered by Asili
 
 Maker app (Pro tier):
 
@@ -38,4 +39,5 @@ All makers, prices and ratings in the prototype are **sample data**.
 
 - Database, auth, storage: Supabase (PostgreSQL + PostGIS)
 - Web app: deployed from this repo to Vercel or Netlify
-- Payments: M-Pesa Daraja API · Tax invoices: KRA eTIMS
+- Payments: buyers pay makers directly; orders confirmed by M-Pesa code match (maker confirms). Optional later: makers connect their own Till via Daraja for automatic confirmation. Asili only collects money for "Get it for me" orders, as a reseller.
+- Tax invoices: KRA eTIMS
