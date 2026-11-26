@@ -33,6 +33,7 @@ A marketplace for Kenyan natural-product makers (soaps, shampoos, creams, gels, 
 | 26 Nov 2026 | Makers receive payments directly; orders confirmed by M-Pesa code match, maker's confirmation decides | Holding buyers' money would bring payment-provider regulation and disputes; fake M-Pesa SMS are common |
 | 26 Nov 2026 | Pricing: flat listing fee + paid micro-ERP (eTIMS) tier | Simple to explain; eTIMS is a legal need |
 | 26 Nov 2026 | Add "Get it for me" multi-maker service at a premium | Convenience sells even when buyers could go direct (KFC on Glovo); second revenue stream |
+| 26 Nov 2026 | Logo: **leaf in a drop** (for now); palette Forest #1E5B3F, Honey #E8A33D, Turmeric #C9772B, Goat milk #F7F6F1, Soil #17241C | Says "made from nature" across soaps, oils and teas |
 | 26 Nov 2026 | **Aggregator only:** no hub, no consignment, no stock. "Get it for me" is partner-run: buyers pay makers directly, a courier partner delivers | Avoid overheads and stock risk; keep the business asset-light |
 
 ## Open questions
